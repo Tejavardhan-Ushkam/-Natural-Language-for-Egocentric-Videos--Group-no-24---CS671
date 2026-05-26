@@ -1,0 +1,52 @@
+Epoch None, Step None
+
+Top-1 Results:
+  Score: 0.324148
+  Avg End Extra: 73.393510
+  Avg Start Extra: 115.162576
+
+Top-2 Results:
+  Score: 0.429726
+  Avg End Extra: 72.156300
+  Avg Start Extra: 109.613967
+
+Top-3 Results:
+  Score: 0.499582
+  Avg End Extra: 71.456986
+  Avg Start Extra: 105.578247
+
+Top-4 Results:
+  Score: 0.534512
+  Avg End Extra: 68.216113
+  Avg Start Extra: 100.969327
+
+Top-5 Results:
+  Score: 0.572323
+  Avg End Extra: 65.049594
+  Avg Start Extra: 100.634410
+
+Top-6 Results:
+  Score: 0.602705
+  Avg End Extra: 63.017454
+  Avg Start Extra: 98.029265
+
+Top-7 Results:
+  Score: 0.626444
+  Avg End Extra: 60.920939
+  Avg Start Extra: 97.796705
+
+Top-8 Results:
+  Score: 0.641878
+  Avg End Extra: 59.486635
+  Avg Start Extra: 96.030835
+
+Top-9 Results:
+  Score: 0.661130
+  Avg End Extra: 59.553412
+  Avg Start Extra: 94.303736
+
+Top-10 Results:
+  Score: 0.671521
+  Avg End Extra: 58.608824
+  Avg Start Extra: 92.544024
+----------------------------------------
